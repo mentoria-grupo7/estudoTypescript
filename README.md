@@ -7,6 +7,7 @@
     npm install
 ```
 
-Install code Runner
+[Install code Runner in your VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-    https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
+    
